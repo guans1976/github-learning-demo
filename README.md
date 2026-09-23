@@ -1,5 +1,9 @@
 # GitHub Learning Demo
 
+## 项目介绍
+
+这是一个用于练习 GitHub 基础功能的示例仓库，包括提交、分支、Issue 和 Pull Request。
+
 这是我的 GitHub 学习仓库。
 
 ## 学习目标
